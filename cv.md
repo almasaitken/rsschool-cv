@@ -14,6 +14,25 @@ I decided to switch from chemistry research path to web development since I want
 * HTML, CSS, Javascript, Node.js, Express framework basics
 * Git fundamentals
 * SQL Basics
+---
+### Code Example:
+```
+// count the digit d in the squares of numbers up to n
+function nbDig(n, d) {
+  let stringOfSquares = '';
+  let count = 0;
+  for (let i = 0; i <= n; i++) {
+    stringOfSquares += i**2;
+  }
+  for (let k = 0; k < stringOfSquares.length; k++) {
+    if (stringOfSquares[k] == d) {
+      count++;
+    }
+  }
+  return count;
+}
+```
+
 --- 
 ### Education:
 * C language foundations course on [qwasar.io](https://drive.google.com/file/d/1erucI8w7h87iAXXxo2jmiWDs7cT2MJJq/view?usp=sharing)
