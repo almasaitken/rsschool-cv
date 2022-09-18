@@ -1,1 +1,1 @@
-https://almasaitken.github.io/rsschool-cv/cv
+https://almasaitken.github.io/rsschool-cv/
