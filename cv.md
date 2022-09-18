@@ -34,6 +34,7 @@ function nbDig(n, d) {
 * Introduction to Python on [Datacamp](https://drive.google.com/file/d/1acAGN9_mANESEIcIyG_lWzl9eT7vhBNr/view?usp=sharing)
 * Astana IT University, Information Technology faculty, Software Engineering (2021 - Present). Expected graduation year - 2024
 * Nazarbayev University, School of Sciences and Humanities, Chemistry (2018-2021), withdrawn due to career path change
+
 ### Languages:
 * Kazakh - Native
 * Russian - Native
