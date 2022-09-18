@@ -11,6 +11,7 @@ I decided to switch from chemistry research path to web development since I want
 * HTML, CSS, Javascript, Node.js, Express framework basics
 * Git fundamentals
 * SQL Basics
+
 ### Code Example:
 ```
 // count the digit d in the squares of numbers up to n
